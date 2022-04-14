@@ -1,0 +1,3 @@
+// tarayıcı 
+
+var firstName = "Sadık";

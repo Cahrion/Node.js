@@ -1,0 +1,23 @@
+{
+  "name": "express-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongodb": "^3.1.13",
+    "mongoose": "^6.0.3",
+    "mysql2": "^1.6.4",
+    "negotiator": "^0.6.1",
+    "pug": "^3.0.2",
+    "sequelize": "^6.6.5"
+  }
+}

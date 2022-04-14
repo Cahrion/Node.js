@@ -1,0 +1,4 @@
+SENDGRİD uygulaması hakkında az bilgi verildiğinden dolayı
+bir hata çıktı bu yüzden kullanılması şuanlık sağlanamıyor
+---
+Onemli bir detay için kullanmadığımızdan dolayı sıkıntı yaratmadan kullanmayalım.

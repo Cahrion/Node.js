@@ -1,0 +1,14 @@
+<!doctype html>
+html(lang="en")
+    include ../includes/head.pug
+
+    body
+    
+        include ../includes/navbar.pug
+        .container.pt-100
+            .row
+                .col-lg-3
+                    include ../includes/menu.pug     
+                .col-lg-9
+                    block content
+        include ../includes/script.pug
